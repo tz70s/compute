@@ -1,2 +1,5 @@
-# compute
-Streaming applications for demonstration.
+# Compute
+
+Collection of apps for demonstration.
+
+* streams: flink-based streaming apps.

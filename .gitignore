@@ -1,2 +1,11 @@
 *.class
 *.log
+
+# Scala targets.
+target/
+
+# Mac
+.DS_Store
+
+# Idea
+.idea/

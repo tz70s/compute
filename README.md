@@ -1,5 +1,3 @@
-# Compute
+# flink-ex
 
-Collection of apps for demonstration.
-
-* streams: flink-based streaming apps.
+Collection of apps in Apache Flink.
